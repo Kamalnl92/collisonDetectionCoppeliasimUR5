@@ -1,4 +1,4 @@
-# collisonDetectionCoppeliasimUR5
+# CollisonDetectionCoppeliasimUR5
 This repository contains a simple version of UR5 robot arm in the scene. The goal is to implement collision detection. The collision detection script is in main script of the scene. the main of the scene.
 The robot arm color converts from green to red if a collision is detected. 
 The python code is the client. Which is used to start the collision detection and span objects. These objects should also be detectable by the robot arm and considered a collision.
