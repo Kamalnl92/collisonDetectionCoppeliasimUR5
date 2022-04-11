@@ -22,4 +22,4 @@ Objects should start spawning in the scene
 
 # problem 
 
-The small spawned objects are not detectable, it should be detectable similarly to the cuboid object is detectable 
+The small spawned objects are not detectable, it should be detectable similarly to the cuboid object. 
