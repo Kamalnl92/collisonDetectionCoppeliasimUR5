@@ -12,13 +12,14 @@ The connection to the server at the moment is made by both using ZeroMQ API and 
 # running 
 - Ubuntu20.4
 - Run CoppeliaSim_Edu_V4_3_0 and load the scene
-- Run the client-side 
+- Run the client-side command below
 
+```
 python main.py
+```
 
-
-objects should start spawning in the scene
+Objects should start spawning in the scene
 
 # problem 
-the cuboid object is detectable 
-the small spawned objects are not detectable
+
+The small spawned objects are not detectable, it should be detectable similarly to the cuboid object is detectable 
