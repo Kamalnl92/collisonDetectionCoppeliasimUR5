@@ -23,4 +23,4 @@ Objects should start spawning in the scene
 
 # problem 
 
-The small spawned objects are not detectable, it should be detectable similarly to the cuboid object. 
+The small spawned objects are not collision detectable, it should be collision detectable similarly to the cuboid object. You can try that by touching the object against the robot arm at any point.
