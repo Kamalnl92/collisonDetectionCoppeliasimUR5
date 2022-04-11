@@ -12,7 +12,7 @@ The connection to the server at the moment is made by both using ZeroMQ API and 
 # running 
 - Ubuntu20.4
 - Run CoppeliaSim_Edu_V4_3_0 and load the scene
-- change directory main.py line 8: obj_mesh_dir = "path/to/objects"
+- Change directory main.py line 8: obj_mesh_dir = "path/to/objects"
 - Run the client-side command below
 
 ```
