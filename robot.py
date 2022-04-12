@@ -126,7 +126,7 @@ class Robot(object):
                 resx.append(drop_x)
                 resy.append(drop_y)
 
-            object_position = [drop_x, drop_y, 0.15]
+            object_position = [drop_x, drop_y, 0.05]
             object_orientation = [0.0, 0.0, 4.33]
             print("orian")
             print(object_orientation)
