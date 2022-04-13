@@ -23,7 +23,7 @@ Objects should start spawning in the scene
 
 # Problem 
 
-gripper is not closed aligned when using <em>Newton</em> physics engine, see the image below 
+gripper is not closed aligned when using <em>Newton physics engine</em>, see the image below 
 
 ![](gripper.png)
 
