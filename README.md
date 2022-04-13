@@ -21,3 +21,9 @@ python main.py
 
 Objects should start spawning in the scene
 
+# Problem 
+
+gripper is not closed aligned when using <em>Newton</em> physics engine, see the image below 
+
+![](gripper.png)
+
